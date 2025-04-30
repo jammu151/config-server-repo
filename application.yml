@@ -2,4 +2,4 @@ global:
   message: CG-Get the future you want!
 logging:
   level:
-    root: INFO
+    root: ERROR
